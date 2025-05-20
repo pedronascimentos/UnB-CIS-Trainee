@@ -70,4 +70,4 @@ As **respostas das atividades** estarão organizadas da seguinte forma:
 
 --- 
 
-🔹 *Atualizado em: {19/05/25}*  
+🔹 *Atualizado em: 19/05/25*
