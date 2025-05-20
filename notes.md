@@ -15,15 +15,17 @@
 > **Importante**: Às vezes, dados qualitativos são codificados como números (ex: 1 = masculino, 2 = feminino), mas **não se tornam quantitativos**.
 
 #### **Qualitativo Nominal**
->Variáveis Categorizáveis que não obedecem a determinada ordenação (Ex: Gênero, Tipo Sanguíneo).
+Variáveis Categorizáveis que não obedecem a determinada ordenação (Ex: Gênero, Tipo Sanguíneo).
 #### **Qualitativo Ordinal** 
- >Varıáveis categorizáveis cuja a ordem é de suma relevância (Ex: Nível Educacional)
+ Varıáveis categorizáveis cuja a ordem é de suma relevância (Ex: Nível Educacional)
 #### **Qualitativo Binário**
-> Varıáveis categorizáveis que tendem a seguir a lógica booleana, ou seja, assumem apenas um valor (Ex: Falso/Verdadeiro, Estado de vida)
+Varıáveis categorizáveis que tendem a seguir a lógica booleana, ou seja, assumem apenas um valor (Ex: Falso/Verdadeiro, Estado de vida)
+
 #### **Quantitativo Discreto**
-> São dados numéricos, representados por números inteiros não negativos. Sua principal característica é a finitude. (Ex: Número de bolas de futebol utilizadas ao longo de uma partida)
+São dados numéricos, representados por números inteiros não negativos. Sua principal característica é a finitude. (Ex: Número de bolas de futebol utilizadas ao longo de uma partida)
 #### **Quantitativo Contínuo**
->São dados numéricos que podem assumir qualquer valor dentro de um intervalo, e podem ser divididos em partes, infinitamente. (Ex: Velocidade, Pressão, Distância)
+São dados numéricos que podem assumir qualquer valor dentro de um intervalo, e podem ser divididos em partes, infinitamente. (Ex: Velocidade, Pressão, Distância)
+
 ---
 
 
