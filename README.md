@@ -17,6 +17,7 @@
 │   ├── 1 - Aula Inicial.pdf
 │   ├── 2 - Atividade Regressão.pdf
 │   ├── Classificação.ipynb
+│   ├── Class_Regressão.ipynb
 │   └── Correcao_PedroNascimento_Entrega1.pdf     #Correção da atividade feita pelo monitor
 ├── 2º Periodo/               # Atividades do 2º período (clusterização)
 │   └── 03 - Atividade Clusterização.pdf
