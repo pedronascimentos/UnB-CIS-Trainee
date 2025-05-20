@@ -46,8 +46,6 @@ As **respostas das atividades** estarão organizadas da seguinte forma:
 - **[Livro: Data Science from Zero (Google Drive)](https://drive.google.com/file/d/1qHJHSlssnpiYkdB_vqG93rhXLpCiXB-2/view?usp=sharing)** 
 
 
-
-
 --- 
 
 ## **Como Contribuir**  
@@ -57,7 +55,7 @@ As **respostas das atividades** estarão organizadas da seguinte forma:
    ```  
 2. Para executar notebooks:  
    - Use **Google Notebook**.  
-3. Dúvidas? Abra uma **issue** ou contate-me em: [nascimento.monteiro@aluno.unb.br].  
+3. Dúvidas? Abra uma **issue** ou entre em contato em: [nascimento.monteiro@aluno.unb.br].  
 
 ---
 
