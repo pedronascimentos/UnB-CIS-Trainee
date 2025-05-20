@@ -55,7 +55,7 @@ As **respostas das atividades** estarão organizadas da seguinte forma:
 ## **Como Contribuir**  
 1. Clone o repositório:  
    ```bash
-   git clone [URL_DO_REPO]
+   git clone https://github.com/pedronascimentos/UnB-CIS-Trainee
    ```  
 2. Para executar notebooks:  
    - Use **Google Notebook**.  
