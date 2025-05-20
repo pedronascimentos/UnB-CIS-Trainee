@@ -17,25 +17,13 @@
 #### **Qualitativo Nominal**
 >Variáveis Categorizáveis que não obedecem a determinada ordenação (Ex: Gênero, Tipo Sanguíneo).
 #### **Qualitativo Ordinal** 
+ >Varıáveis categorizáveis cuja a ordem é de suma relevância (Ex: Nível Educacional)
 #### **Qualitativo Binário**
+> Varıáveis categorizáveis que tendem a seguir a lógica booleana, ou seja, assumem apenas um valor (Ex: Falso/Verdadeiro, Estado de vida)
 #### **Quantitativo Discreto**
+> São dados numéricos, representados por números inteiros não negativos. Sua principal característica é a finitude. (Ex: Número de bolas de futebol utilizadas ao longo de uma partida)
 #### **Quantitativo Contínuo**
-
+>São dados numéricos que podem assumir qualquer valor dentro de um intervalo, e podem ser divididos em partes, infinitamente. (Ex: Velocidade, Pressão, Distância)
 ---
 
-## 🧠 5. Considerações Práticas em Data Science
 
-- **Pré-processamento**: Dados categóricos precisam ser convertidos para representação numérica antes de entrar em algoritmos de machine learning.
-    
-- **Visualização**:
-    
-    - Dados categóricos: gráficos de barras, pizza.
-        
-    - Dados numéricos: histogramas, boxplots.
-        
-- **Modelagem**:
-    
-    - Modelos como **árvores de decisão** lidam bem com dados mistos.
-        
-    - Modelos lineares requerem que os dados sejam numéricos e, muitas vezes, normalizados.
-        
