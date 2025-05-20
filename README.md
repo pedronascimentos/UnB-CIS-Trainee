@@ -1,6 +1,8 @@
 # **Repositório de Estudos - IEEE CIS**  
 **Autor**: Pedro Henrique Monteiro Nascimento 241011582
+
 **Membro da**: IEEE Computational Intelligence Society - UnB
+
 **Finalidade**: Postar atividades da sociedade, anotações de estudos e projetos em Ciência de Computação/Análise de Dados/Engenharia de Software.
 
 ---
@@ -33,7 +35,7 @@ As **respostas das atividades** estarão organizadas da seguinte forma:
 2. **Notebooks (`.ipynb`)**:  
    - Códigos completos com saídas esperadas (ex.: `Classificação.ipynb`).  
 3. **Referências**:  
-   - Links para os cursos/base teórica usada (seção **Recursos Acadêmicos** acima).  
+   - Links para os cursos/base teórica usada (seção **Recursos Acadêmicos** abaixo).  
 
 ---
 
@@ -47,9 +49,10 @@ As **respostas das atividades** estarão organizadas da seguinte forma:
 - **[DataCamp: Linear Regression in R](https://www.datacamp.com/courses/linear-regression-in-r)**  
 - **[Coursera: High-throughput Data Analysis (Harvard)](https://www.coursera.org/learn/high-throughput-data-analysis)**  
 
----
 
-## **🛠️ Como Contribuir**  
+--- 
+
+## **Como Contribuir**  
 1. Clone o repositório:  
    ```bash
    git clone [URL_DO_REPO]
@@ -58,14 +61,13 @@ As **respostas das atividades** estarão organizadas da seguinte forma:
    - Use **Google Notebook**.  
 3. Dúvidas? Abra uma **issue** ou contate-me em: [nascimento.monteiro@aluno.unb.br].  
 
---- 
+---
 
-🔹 *Atualizado em: {19/05/25}*  
-
---- 
 
 ### **Notas Adicionais**  
 - O arquivo `notes.md` usa sintaxe Markdown e referencia imagens em `src_notes/`.  
 - Datasets estão cru em `datasets/`.  
 
 --- 
+
+🔹 *Atualizado em: {19/05/25}*  
