@@ -43,11 +43,9 @@ As **respostas das atividades** estarão organizadas da seguinte forma:
 ### **Álgebra Matricial & Modelos Lineares**  
 - **[MIT 18.06: Linear Algebra (Gilbert Strang)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)**  
 - **[MIT 18.655: Mathematical Statistics](https://ocw.mit.edu/courses/18-655-mathematical-statistics-spring-2016/)**  
-- **[Livro: Data Science from Zero (Google Drive)](https://drive.google.com/[LINK_AQUI])** *(adicione o link depois)*  
+- **[Livro: Data Science from Zero (Google Drive)](https://drive.google.com/file/d/1qHJHSlssnpiYkdB_vqG93rhXLpCiXB-2/view?usp=sharing)** 
 
-### **Cursos em R**  
-- **[DataCamp: Linear Regression in R](https://www.datacamp.com/courses/linear-regression-in-r)**  
-- **[Coursera: High-throughput Data Analysis (Harvard)](https://www.coursera.org/learn/high-throughput-data-analysis)**  
+
 
 
 --- 
